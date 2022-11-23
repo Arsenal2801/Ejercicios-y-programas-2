@@ -20,6 +20,6 @@ int main()
 			n = 3 * n + 1; // Operacion
 		}
 	}
-	printf("\n");
+	printf("1 \n");
 	return 0;
 }
