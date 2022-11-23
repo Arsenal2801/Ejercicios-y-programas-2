@@ -6,7 +6,7 @@ int main()
 {
 	// Declaracion de variables
 	int n;
-	printf("SERIE ULAM - INGRESE N�MERO : "); // Impresion de mensaje
+	printf("Ingresa un numero para crear la serie de ulam: "); // Impresion de mensaje
 	scanf("%i", &n);						  // Lectura de variable
 	while ((n != 1))
 	{					  // Ciclo while
